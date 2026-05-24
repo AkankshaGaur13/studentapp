@@ -1,0 +1,19 @@
+# Maven / Gradle build files
+target/
+build/
+
+# IntelliJ / Eclipse
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# Env files (if any)
+.env
